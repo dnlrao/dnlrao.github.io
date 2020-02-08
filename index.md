@@ -19,6 +19,9 @@ These are the following CS classes I have taken so far:
 ![Image of US Flag](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg) 
 
 
+### Todays meme:
+
+
 ![Meme](https://cdn.lolwot.com/wp-content/uploads/2015/04/20-animal-memes-that-show-how-we-feel-on-mondays-1.jpg)
 
 
