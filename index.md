@@ -19,9 +19,7 @@ These are the following CS classes I have taken so far:
 ![Image of US Flag](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg) 
 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dnlrao/dnlrao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
