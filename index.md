@@ -16,7 +16,7 @@ These are the following CS classes I have taken so far:
 
 
 
-![Image of Yaktocat](https://en.wikipedia.org/wiki/Flag_of_the_United_States#/media/File:Flag_of_the_United_States.svg) 
+![Image of US Flag](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg) 
 
 
 ### Jekyll Themes
