@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my github page.
 
-You can use the [editor on GitHub](https://github.com/dnlrao/dnlrao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+These are the following CS classes I have taken so far:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1) CS121
+2) CS221
+3) CS321
+4) CSHU120
+5) CSHU153
+6) CSHU250
+7) CSHU271
+8) CSHU310
+9) CS253
 
 ### Markdown
 
