@@ -2,15 +2,15 @@
 
 These are the following CS classes I have taken so far:
 
-1) CS121 <br>
-2) CS221 <br>
-3) CS321 <br>
-4) CSHU120 <br>
-5) CSHU153 <br>
-6) CSHU250 <br>
-7) CSHU271 <br>
-8) CSHU310 <br>
-9) CS253 <br>
+1) CS121 <Br>
+2) CS221 <Br>
+3) CS321 <Br>
+4) CSHU120 <Br>
+5) CSHU153 <Br>
+6) CSHU250 <Br>
+7) CSHU271 <Br>
+8) CSHU310 <Br>
+9) CS253 <Br>
 
 ### Markdown
 
