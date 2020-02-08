@@ -11,6 +11,20 @@ These are the following CS classes I have taken so far:
 7) CSHU271 <Br>
 8) CSHU310 <Br>
 9) CS253 <Br>
+  
+  
+  Classes | Semester
+------------ | -------------
+CS121 | 1st sem
+CS221 | 4th sem
+CS321 | 5th sem
+CSHU120 | 1st sem
+CSHU153 | 2nd sem
+CSHU250 | 5th sem
+CSHU271 | 5th sem
+CSHU310 | 5th sem
+CS253 | 5th sem
+
 
 ### Flag of USA:
 
